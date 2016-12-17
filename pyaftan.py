@@ -387,7 +387,7 @@ class aftantrace(obspy.core.trace.Trace):
         vmax       - maximal group velocity, km/s
         tmin       - minimal period, s
         tmax       - maximal period, s
-        tresh      - treshold for jump detection, usualy = 10, need modifications
+        tresh      - threshold for jump detection, usualy = 10, need modifications
         ffact      - factor to automatic filter parameter, usualy =1
         taperl     - factor for the left end seismogram tapering, taper = taperl*tmax,    (real*8)
         snr        - phase match filter parameter, spectra ratio to determine cutting point for phase matched filter
