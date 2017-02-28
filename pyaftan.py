@@ -525,7 +525,7 @@ class aftantrace(obspy.core.trace.Trace):
         for k in xrange(nfin):
             ampk=amp[:,k]
             ampok=ampo[:,k]
-            ind_localmax=argrelmax(ampk)[0]
+            ind_localmax=argrelmax(ampk)[0] # index for local maxima
             omega=omegaArr[k]
             if ind_localmax.size==0:
                 ind_localmax=np.append(ind_localmax, ne+1-nb)
@@ -1063,7 +1063,7 @@ class aftantrace(obspy.core.trace.Trace):
     def _trigger(self, grvel, om , tresh):
         """Detect jumps in dispersion curve
         """
-        nf=om.size
+        nf = om.size
         hh1 = om[1:nf-1]-om[:nf-2]
         hh2 = om[2:]-om[1:nf-1]
         hh3 = hh1+hh2
@@ -1228,7 +1228,8 @@ class aftantrace(obspy.core.trace.Trace):
         tresh      - treshold for jump detection, usualy = 10, need modifications
         ffact      - factor to automatic filter parameter, usualy =1
         taperl     - factor for the left end seismogram tapering, taper = taperl*tmax,    (real*8)
-        snr        - phase match filter parameter, spectra ratio to determine cutting point for phase matched filter
+        snr        - phase match :q
+        parameter, spectra ratio to determine cutting point for phase matched filter
         fmatch     - factor to length of phase matching window
         nfin       - number of initial period points
         npoints    - number of continuous points in jump correction
@@ -1500,7 +1501,7 @@ class aftantrace(obspy.core.trace.Trace):
         ====================================================================
         """
         npts=self.stats.npts
-        ns=1<<(npts-1).bit_length()
+        ns=1<<(npts-1).bit_length() # get an integer which is 2^(int)
         df=1.0/self.stats.delta/ns
         nhalf=ns/2+1
         fmax=(nhalf-1)*df

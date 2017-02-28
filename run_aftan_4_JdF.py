@@ -18,7 +18,7 @@ atr.makesym() # atr3 is for the mean of positive and negative lags
 #start_time=timeit.default_timer()
 # atr1.aftan(tmin=5., tmax=20., vmin=0.5, vmax=4.5, phvelname='/projects/howa1663/Code/pyaftan/ak135.disp') # apply aftan to all 3 traes
 # atr2.aftan(tmin=5., tmax=20., vmin=0.5, vmax=4.5, phvelname='/projects/howa1663/Code/pyaftan/ak135.disp')
-atr.aftan(tmin=5., tmax=20., vmin=0.5, vmax=4.5, phvelname='/projects/howa1663/Code/pyaftan/ak135.disp')
+atr.aftan(tmin=5., tmax=40., vmin=0.5, vmax=4.5, phvelname='/projects/howa1663/Code/pyaftan/ak135.disp')
 # atr1.get_snr()
 # atr2.get_snr()
 atr.get_snr()

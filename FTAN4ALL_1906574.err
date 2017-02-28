@@ -1,0 +1,631 @@
+/projects/howa1663/Code/pyaftan/FTAN_4_JdF.py:320: UserWarning: No predicted dispersion curve for:7D.G25B
+  warnings.warn('No predicted dispersion curve for:'+self.stats.network+'.'+self.stats.station, UserWarning, stacklevel=1)
+/projects/howa1663/Code/pyaftan/FTAN_4_JdF.py:320: UserWarning: No predicted dispersion curve for:7D.FS15B
+  warnings.warn('No predicted dispersion curve for:'+self.stats.network+'.'+self.stats.station, UserWarning, stacklevel=1)
+/projects/howa1663/Code/pyaftan/FTAN_4_JdF.py:320: UserWarning: No predicted dispersion curve for:7D.M10B
+  warnings.warn('No predicted dispersion curve for:'+self.stats.network+'.'+self.stats.station, UserWarning, stacklevel=1)
+/projects/howa1663/Code/pyaftan/FTAN_4_JdF.py:320: UserWarning: No predicted dispersion curve for:7D.FS17B
+  warnings.warn('No predicted dispersion curve for:'+self.stats.network+'.'+self.stats.station, UserWarning, stacklevel=1)
+/projects/howa1663/Code/pyaftan/FTAN_4_JdF.py:320: UserWarning: No predicted dispersion curve for:7D.G26B
+  warnings.warn('No predicted dispersion curve for:'+self.stats.network+'.'+self.stats.station, UserWarning, stacklevel=1)
+/projects/howa1663/Code/pyaftan/FTAN_4_JdF.py:320: UserWarning: No predicted dispersion curve for:UW.LTY
+  warnings.warn('No predicted dispersion curve for:'+self.stats.network+'.'+self.stats.station, UserWarning, stacklevel=1)
+/projects/howa1663/Code/pyaftan/FTAN_4_JdF.py:320: UserWarning: No predicted dispersion curve for:7D.G03B
+  warnings.warn('No predicted dispersion curve for:'+self.stats.network+'.'+self.stats.station, UserWarning, stacklevel=1)
+/projects/howa1663/Code/pyaftan/FTAN_4_JdF.py:320: UserWarning: No predicted dispersion curve for:UW.CCRK
+  warnings.warn('No predicted dispersion curve for:'+self.stats.network+'.'+self.stats.station, UserWarning, stacklevel=1)
+/projects/howa1663/Code/pyaftan/FTAN_4_JdF.py:320: UserWarning: No predicted dispersion curve for:TA.J04D
+  warnings.warn('No predicted dispersion curve for:'+self.stats.network+'.'+self.stats.station, UserWarning, stacklevel=1)
+/projects/howa1663/Code/pyaftan/FTAN_4_JdF.py:320: UserWarning: No predicted dispersion curve for:UW.STOR
+  warnings.warn('No predicted dispersion curve for:'+self.stats.network+'.'+self.stats.station, UserWarning, stacklevel=1)
+/projects/howa1663/Code/pyaftan/FTAN_4_JdF.py:320: UserWarning: No predicted dispersion curve for:UW.TAKO
+  warnings.warn('No predicted dispersion curve for:'+self.stats.network+'.'+self.stats.station, UserWarning, stacklevel=1)
+/projects/howa1663/Code/pyaftan/FTAN_4_JdF.py:320: UserWarning: No predicted dispersion curve for:7D.FS19B
+  warnings.warn('No predicted dispersion curve for:'+self.stats.network+'.'+self.stats.station, UserWarning, stacklevel=1)
+/projects/howa1663/Code/pyaftan/FTAN_4_JdF.py:320: UserWarning: No predicted dispersion curve for:7D.M12B
+  warnings.warn('No predicted dispersion curve for:'+self.stats.network+'.'+self.stats.station, UserWarning, stacklevel=1)
+/projects/howa1663/Code/pyaftan/FTAN_4_JdF.py:320: UserWarning: No predicted dispersion curve for:UW.PHIN
+  warnings.warn('No predicted dispersion curve for:'+self.stats.network+'.'+self.stats.station, UserWarning, stacklevel=1)
+/projects/howa1663/Code/pyaftan/FTAN_4_JdF.py:320: UserWarning: No predicted dispersion curve for:7D.G11B
+  warnings.warn('No predicted dispersion curve for:'+self.stats.network+'.'+self.stats.station, UserWarning, stacklevel=1)
+/projects/howa1663/Code/pyaftan/FTAN_4_JdF.py:320: UserWarning: No predicted dispersion curve for:UW.GNW
+  warnings.warn('No predicted dispersion curve for:'+self.stats.network+'.'+self.stats.station, UserWarning, stacklevel=1)
+/projects/howa1663/Code/pyaftan/FTAN_4_JdF.py:320: UserWarning: No predicted dispersion curve for:7D.G18B
+  warnings.warn('No predicted dispersion curve for:'+self.stats.network+'.'+self.stats.station, UserWarning, stacklevel=1)
+/projects/howa1663/Code/pyaftan/FTAN_4_JdF.py:320: UserWarning: No predicted dispersion curve for:7D.J17B
+  warnings.warn('No predicted dispersion curve for:'+self.stats.network+'.'+self.stats.station, UserWarning, stacklevel=1)
+/projects/howa1663/Code/pyaftan/FTAN_4_JdF.py:320: UserWarning: No predicted dispersion curve for:7D.G12B
+  warnings.warn('No predicted dispersion curve for:'+self.stats.network+'.'+self.stats.station, UserWarning, stacklevel=1)
+/projects/howa1663/Code/pyaftan/FTAN_4_JdF.py:320: UserWarning: No predicted dispersion curve for:7D.J18B
+  warnings.warn('No predicted dispersion curve for:'+self.stats.network+'.'+self.stats.station, UserWarning, stacklevel=1)
+/projects/howa1663/Code/pyaftan/FTAN_4_JdF.py:320: UserWarning: No predicted dispersion curve for:TA.O03E
+  warnings.warn('No predicted dispersion curve for:'+self.stats.network+'.'+self.stats.station, UserWarning, stacklevel=1)
+/projects/howa1663/Code/pyaftan/FTAN_4_JdF.py:320: UserWarning: No predicted dispersion curve for:TA.A04D
+  warnings.warn('No predicted dispersion curve for:'+self.stats.network+'.'+self.stats.station, UserWarning, stacklevel=1)
+/projects/howa1663/Code/pyaftan/FTAN_4_JdF.py:320: UserWarning: No predicted dispersion curve for:UW.OMAK
+  warnings.warn('No predicted dispersion curve for:'+self.stats.network+'.'+self.stats.station, UserWarning, stacklevel=1)
+/projects/howa1663/Code/pyaftan/FTAN_4_JdF.py:320: UserWarning: No predicted dispersion curve for:7D.J23B
+  warnings.warn('No predicted dispersion curve for:'+self.stats.network+'.'+self.stats.station, UserWarning, stacklevel=1)
+/projects/howa1663/Code/pyaftan/FTAN_4_JdF.py:320: UserWarning: No predicted dispersion curve for:7D.G29B
+  warnings.warn('No predicted dispersion curve for:'+self.stats.network+'.'+self.stats.station, UserWarning, stacklevel=1)
+/projects/howa1663/Code/pyaftan/FTAN_4_JdF.py:320: UserWarning: No predicted dispersion curve for:TA.I05D
+  warnings.warn('No predicted dispersion curve for:'+self.stats.network+'.'+self.stats.station, UserWarning, stacklevel=1)
+/projects/howa1663/Code/pyaftan/FTAN_4_JdF.py:320: UserWarning: No predicted dispersion curve for:7D.J10B
+  warnings.warn('No predicted dispersion curve for:'+self.stats.network+'.'+self.stats.station, UserWarning, stacklevel=1)
+/projects/howa1663/Code/pyaftan/FTAN_4_JdF.py:320: UserWarning: No predicted dispersion curve for:UW.PASS
+  warnings.warn('No predicted dispersion curve for:'+self.stats.network+'.'+self.stats.station, UserWarning, stacklevel=1)
+/projects/howa1663/Code/pyaftan/FTAN_4_JdF.py:320: UserWarning: No predicted dispersion curve for:7D.G21B
+  warnings.warn('No predicted dispersion curve for:'+self.stats.network+'.'+self.stats.station, UserWarning, stacklevel=1)
+/projects/howa1663/Code/pyaftan/FTAN_4_JdF.py:320: UserWarning: No predicted dispersion curve for:TA.G03D
+  warnings.warn('No predicted dispersion curve for:'+self.stats.network+'.'+self.stats.station, UserWarning, stacklevel=1)
+/projects/howa1663/Code/pyaftan/FTAN_4_JdF.py:320: UserWarning: No predicted dispersion curve for:TA.F04D
+  warnings.warn('No predicted dispersion curve for:'+self.stats.network+'.'+self.stats.station, UserWarning, stacklevel=1)
+/projects/howa1663/Code/pyaftan/FTAN_4_JdF.py:320: UserWarning: No predicted dispersion curve for:UW.HOOD
+  warnings.warn('No predicted dispersion curve for:'+self.stats.network+'.'+self.stats.station, UserWarning, stacklevel=1)
+/projects/howa1663/Code/pyaftan/FTAN_4_JdF.py:320: UserWarning: No predicted dispersion curve for:UW.WISH
+  warnings.warn('No predicted dispersion curve for:'+self.stats.network+'.'+self.stats.station, UserWarning, stacklevel=1)
+/projects/howa1663/Code/pyaftan/FTAN_4_JdF.py:320: UserWarning: No predicted dispersion curve for:7D.M18B
+  warnings.warn('No predicted dispersion curve for:'+self.stats.network+'.'+self.stats.station, UserWarning, stacklevel=1)
+/projects/howa1663/Code/pyaftan/FTAN_4_JdF.py:320: UserWarning: No predicted dispersion curve for:7D.G30B
+  warnings.warn('No predicted dispersion curve for:'+self.stats.network+'.'+self.stats.station, UserWarning, stacklevel=1)
+/projects/howa1663/Code/pyaftan/FTAN_4_JdF.py:320: UserWarning: No predicted dispersion curve for:UO.DBO
+  warnings.warn('No predicted dispersion curve for:'+self.stats.network+'.'+self.stats.station, UserWarning, stacklevel=1)
+/projects/howa1663/Code/pyaftan/FTAN_4_JdF.py:320: UserWarning: No predicted dispersion curve for:7D.J33B
+  warnings.warn('No predicted dispersion curve for:'+self.stats.network+'.'+self.stats.station, UserWarning, stacklevel=1)
+/projects/howa1663/Code/pyaftan/FTAN_4_JdF.py:320: UserWarning: No predicted dispersion curve for:TA.N02D
+  warnings.warn('No predicted dispersion curve for:'+self.stats.network+'.'+self.stats.station, UserWarning, stacklevel=1)
+/projects/howa1663/Code/pyaftan/FTAN_4_JdF.py:320: UserWarning: No predicted dispersion curve for:BK.HUMO
+  warnings.warn('No predicted dispersion curve for:'+self.stats.network+'.'+self.stats.station, UserWarning, stacklevel=1)
+/projects/howa1663/Code/pyaftan/FTAN_4_JdF.py:320: UserWarning: No predicted dispersion curve for:TA.I04A
+  warnings.warn('No predicted dispersion curve for:'+self.stats.network+'.'+self.stats.station, UserWarning, stacklevel=1)
+/projects/howa1663/Code/pyaftan/FTAN_4_JdF.py:320: UserWarning: No predicted dispersion curve for:TA.B05D
+  warnings.warn('No predicted dispersion curve for:'+self.stats.network+'.'+self.stats.station, UserWarning, stacklevel=1)
+/projects/howa1663/Code/pyaftan/FTAN_4_JdF.py:320: UserWarning: No predicted dispersion curve for:TA.M02C
+  warnings.warn('No predicted dispersion curve for:'+self.stats.network+'.'+self.stats.station, UserWarning, stacklevel=1)
+/projects/howa1663/Code/pyaftan/FTAN_4_JdF.py:320: UserWarning: No predicted dispersion curve for:TA.K02D
+  warnings.warn('No predicted dispersion curve for:'+self.stats.network+'.'+self.stats.station, UserWarning, stacklevel=1)
+/projects/howa1663/Code/pyaftan/FTAN_4_JdF.py:320: UserWarning: No predicted dispersion curve for:TA.O03D
+  warnings.warn('No predicted dispersion curve for:'+self.stats.network+'.'+self.stats.station, UserWarning, stacklevel=1)
+/projects/howa1663/Code/pyaftan/FTAN_4_JdF.py:320: UserWarning: No predicted dispersion curve for:TA.J05D
+  warnings.warn('No predicted dispersion curve for:'+self.stats.network+'.'+self.stats.station, UserWarning, stacklevel=1)
+/projects/howa1663/Code/pyaftan/FTAN_4_JdF.py:320: UserWarning: No predicted dispersion curve for:UW.ELW
+  warnings.warn('No predicted dispersion curve for:'+self.stats.network+'.'+self.stats.station, UserWarning, stacklevel=1)
+/projects/howa1663/Code/pyaftan/FTAN_4_JdF.py:320: UserWarning: No predicted dispersion curve for:7D.J25B
+  warnings.warn('No predicted dispersion curve for:'+self.stats.network+'.'+self.stats.station, UserWarning, stacklevel=1)
+/projects/howa1663/Code/pyaftan/FTAN_4_JdF.py:320: UserWarning: No predicted dispersion curve for:TA.L04D
+  warnings.warn('No predicted dispersion curve for:'+self.stats.network+'.'+self.stats.station, UserWarning, stacklevel=1)
+/projects/howa1663/Code/pyaftan/FTAN_4_JdF.py:320: UserWarning: No predicted dispersion curve for:UW.TOLT
+  warnings.warn('No predicted dispersion curve for:'+self.stats.network+'.'+self.stats.station, UserWarning, stacklevel=1)
+/projects/howa1663/Code/pyaftan/FTAN_4_JdF.py:320: UserWarning: No predicted dispersion curve for:UW.TUCA
+  warnings.warn('No predicted dispersion curve for:'+self.stats.network+'.'+self.stats.station, UserWarning, stacklevel=1)
+/projects/howa1663/Code/pyaftan/FTAN_4_JdF.py:320: UserWarning: No predicted dispersion curve for:7D.J63B
+  warnings.warn('No predicted dispersion curve for:'+self.stats.network+'.'+self.stats.station, UserWarning, stacklevel=1)
+/projects/howa1663/Code/pyaftan/FTAN_4_JdF.py:320: UserWarning: No predicted dispersion curve for:7D.M13B
+  warnings.warn('No predicted dispersion curve for:'+self.stats.network+'.'+self.stats.station, UserWarning, stacklevel=1)
+/projects/howa1663/Code/pyaftan/FTAN_4_JdF.py:320: UserWarning: No predicted dispersion curve for:7D.M11B
+  warnings.warn('No predicted dispersion curve for:'+self.stats.network+'.'+self.stats.station, UserWarning, stacklevel=1)
+/projects/howa1663/Code/pyaftan/FTAN_4_JdF.py:320: UserWarning: No predicted dispersion curve for:UW.LCCR
+  warnings.warn('No predicted dispersion curve for:'+self.stats.network+'.'+self.stats.station, UserWarning, stacklevel=1)
+/projects/howa1663/Code/pyaftan/FTAN_4_JdF.py:320: UserWarning: No predicted dispersion curve for:TA.C06D
+  warnings.warn('No predicted dispersion curve for:'+self.stats.network+'.'+self.stats.station, UserWarning, stacklevel=1)
+/projects/howa1663/Code/pyaftan/FTAN_4_JdF.py:320: UserWarning: No predicted dispersion curve for:TA.L02E
+  warnings.warn('No predicted dispersion curve for:'+self.stats.network+'.'+self.stats.station, UserWarning, stacklevel=1)
+/projects/howa1663/Code/pyaftan/FTAN_4_JdF.py:320: UserWarning: No predicted dispersion curve for:7D.J28B
+  warnings.warn('No predicted dispersion curve for:'+self.stats.network+'.'+self.stats.station, UserWarning, stacklevel=1)
+/projects/howa1663/Code/pyaftan/FTAN_4_JdF.py:320: UserWarning: No predicted dispersion curve for:TA.D04E
+  warnings.warn('No predicted dispersion curve for:'+self.stats.network+'.'+self.stats.station, UserWarning, stacklevel=1)
+/projects/howa1663/Code/pyaftan/FTAN_4_JdF.py:320: UserWarning: No predicted dispersion curve for:7D.G33B
+  warnings.warn('No predicted dispersion curve for:'+self.stats.network+'.'+self.stats.station, UserWarning, stacklevel=1)
+/projects/howa1663/Code/pyaftan/FTAN_4_JdF.py:320: UserWarning: No predicted dispersion curve for:TA.I02D
+  warnings.warn('No predicted dispersion curve for:'+self.stats.network+'.'+self.stats.station, UserWarning, stacklevel=1)
+/projects/howa1663/Code/pyaftan/FTAN_4_JdF.py:320: UserWarning: No predicted dispersion curve for:UW.MRBL
+  warnings.warn('No predicted dispersion curve for:'+self.stats.network+'.'+self.stats.station, UserWarning, stacklevel=1)
+/projects/howa1663/Code/pyaftan/FTAN_4_JdF.py:320: UserWarning: No predicted dispersion curve for:7D.M14B
+  warnings.warn('No predicted dispersion curve for:'+self.stats.network+'.'+self.stats.station, UserWarning, stacklevel=1)
+/projects/howa1663/Code/pyaftan/FTAN_4_JdF.py:320: UserWarning: No predicted dispersion curve for:7D.J20B
+  warnings.warn('No predicted dispersion curve for:'+self.stats.network+'.'+self.stats.station, UserWarning, stacklevel=1)
+/projects/howa1663/Code/pyaftan/FTAN_4_JdF.py:320: UserWarning: No predicted dispersion curve for:UW.DAVN
+  warnings.warn('No predicted dispersion curve for:'+self.stats.network+'.'+self.stats.station, UserWarning, stacklevel=1)
+/projects/howa1663/Code/pyaftan/FTAN_4_JdF.py:320: UserWarning: No predicted dispersion curve for:7D.G28B
+  warnings.warn('No predicted dispersion curve for:'+self.stats.network+'.'+self.stats.station, UserWarning, stacklevel=1)
+/projects/howa1663/Code/pyaftan/FTAN_4_JdF.py:320: UserWarning: No predicted dispersion curve for:TA.M04C
+  warnings.warn('No predicted dispersion curve for:'+self.stats.network+'.'+self.stats.station, UserWarning, stacklevel=1)
+/projects/howa1663/Code/pyaftan/FTAN_4_JdF.py:320: UserWarning: No predicted dispersion curve for:TA.J01E
+  warnings.warn('No predicted dispersion curve for:'+self.stats.network+'.'+self.stats.station, UserWarning, stacklevel=1)
+/projects/howa1663/Code/pyaftan/FTAN_4_JdF.py:320: UserWarning: No predicted dispersion curve for:7D.FS20B
+  warnings.warn('No predicted dispersion curve for:'+self.stats.network+'.'+self.stats.station, UserWarning, stacklevel=1)
+/projects/howa1663/Code/pyaftan/FTAN_4_JdF.py:320: UserWarning: No predicted dispersion curve for:7D.G04B
+  warnings.warn('No predicted dispersion curve for:'+self.stats.network+'.'+self.stats.station, UserWarning, stacklevel=1)
+/projects/howa1663/Code/pyaftan/FTAN_4_JdF.py:320: UserWarning: No predicted dispersion curve for:7D.J09B
+  warnings.warn('No predicted dispersion curve for:'+self.stats.network+'.'+self.stats.station, UserWarning, stacklevel=1)
+/projects/howa1663/Code/pyaftan/FTAN_4_JdF.py:320: UserWarning: No predicted dispersion curve for:7D.J06B
+  warnings.warn('No predicted dispersion curve for:'+self.stats.network+'.'+self.stats.station, UserWarning, stacklevel=1)
+/projects/howa1663/Code/pyaftan/FTAN_4_JdF.py:320: UserWarning: No predicted dispersion curve for:UW.OFR
+  warnings.warn('No predicted dispersion curve for:'+self.stats.network+'.'+self.stats.station, UserWarning, stacklevel=1)
+/projects/howa1663/Code/pyaftan/FTAN_4_JdF.py:320: UserWarning: No predicted dispersion curve for:TA.J01D
+  warnings.warn('No predicted dispersion curve for:'+self.stats.network+'.'+self.stats.station, UserWarning, stacklevel=1)
+/projects/howa1663/Code/pyaftan/FTAN_4_JdF.py:320: UserWarning: No predicted dispersion curve for:7D.FS18B
+  warnings.warn('No predicted dispersion curve for:'+self.stats.network+'.'+self.stats.station, UserWarning, stacklevel=1)
+/projects/howa1663/Code/pyaftan/FTAN_4_JdF.py:320: UserWarning: No predicted dispersion curve for:UW.SP2
+  warnings.warn('No predicted dispersion curve for:'+self.stats.network+'.'+self.stats.station, UserWarning, stacklevel=1)
+/projects/howa1663/Code/pyaftan/FTAN_4_JdF.py:320: UserWarning: No predicted dispersion curve for:TA.D03D
+  warnings.warn('No predicted dispersion curve for:'+self.stats.network+'.'+self.stats.station, UserWarning, stacklevel=1)
+/projects/howa1663/Code/pyaftan/FTAN_4_JdF.py:320: UserWarning: No predicted dispersion curve for:TA.E04D
+  warnings.warn('No predicted dispersion curve for:'+self.stats.network+'.'+self.stats.station, UserWarning, stacklevel=1)
+/projects/howa1663/Code/pyaftan/FTAN_4_JdF.py:320: UserWarning: No predicted dispersion curve for:7D.G10B
+  warnings.warn('No predicted dispersion curve for:'+self.stats.network+'.'+self.stats.station, UserWarning, stacklevel=1)
+/projects/howa1663/Code/pyaftan/FTAN_4_JdF.py:320: UserWarning: No predicted dispersion curve for:7D.G17B
+  warnings.warn('No predicted dispersion curve for:'+self.stats.network+'.'+self.stats.station, UserWarning, stacklevel=1)
+/projects/howa1663/Code/pyaftan/FTAN_4_JdF.py:320: UserWarning: No predicted dispersion curve for:UW.IRON
+  warnings.warn('No predicted dispersion curve for:'+self.stats.network+'.'+self.stats.station, UserWarning, stacklevel=1)
+/projects/howa1663/Code/pyaftan/FTAN_4_JdF.py:320: UserWarning: No predicted dispersion curve for:7D.J48B
+  warnings.warn('No predicted dispersion curve for:'+self.stats.network+'.'+self.stats.station, UserWarning, stacklevel=1)
+/projects/howa1663/Code/pyaftan/FTAN_4_JdF.py:320: UserWarning: No predicted dispersion curve for:TA.D04D
+  warnings.warn('No predicted dispersion curve for:'+self.stats.network+'.'+self.stats.station, UserWarning, stacklevel=1)
+/projects/howa1663/Code/pyaftan/FTAN_4_JdF.py:320: UserWarning: No predicted dispersion curve for:UW.LON
+  warnings.warn('No predicted dispersion curve for:'+self.stats.network+'.'+self.stats.station, UserWarning, stacklevel=1)
+/projects/howa1663/Code/pyaftan/FTAN_4_JdF.py:320: UserWarning: No predicted dispersion curve for:UW.BLOW
+  warnings.warn('No predicted dispersion curve for:'+self.stats.network+'.'+self.stats.station, UserWarning, stacklevel=1)
+/projects/howa1663/Code/pyaftan/FTAN_4_JdF.py:320: UserWarning: No predicted dispersion curve for:US.WVOR
+  warnings.warn('No predicted dispersion curve for:'+self.stats.network+'.'+self.stats.station, UserWarning, stacklevel=1)
+/projects/howa1663/Code/pyaftan/FTAN_4_JdF.py:320: UserWarning: No predicted dispersion curve for:TA.H04D
+  warnings.warn('No predicted dispersion curve for:'+self.stats.network+'.'+self.stats.station, UserWarning, stacklevel=1)
+/projects/howa1663/Code/pyaftan/FTAN_4_JdF.py:320: UserWarning: No predicted dispersion curve for:7D.G34B
+  warnings.warn('No predicted dispersion curve for:'+self.stats.network+'.'+self.stats.station, UserWarning, stacklevel=1)
+/projects/howa1663/Code/pyaftan/FTAN_4_JdF.py:320: UserWarning: No predicted dispersion curve for:7D.J19B
+  warnings.warn('No predicted dispersion curve for:'+self.stats.network+'.'+self.stats.station, UserWarning, stacklevel=1)
+/projects/howa1663/Code/pyaftan/FTAN_4_JdF.py:320: UserWarning: No predicted dispersion curve for:UW.LEBA
+  warnings.warn('No predicted dispersion curve for:'+self.stats.network+'.'+self.stats.station, UserWarning, stacklevel=1)
+/projects/howa1663/Code/pyaftan/FTAN_4_JdF.py:320: UserWarning: No predicted dispersion curve for:7D.G19B
+  warnings.warn('No predicted dispersion curve for:'+self.stats.network+'.'+self.stats.station, UserWarning, stacklevel=1)
+/projects/howa1663/Code/pyaftan/FTAN_4_JdF.py:320: UserWarning: No predicted dispersion curve for:UW.WOLL
+  warnings.warn('No predicted dispersion curve for:'+self.stats.network+'.'+self.stats.station, UserWarning, stacklevel=1)
+/projects/howa1663/Code/pyaftan/FTAN_4_JdF.py:320: UserWarning: No predicted dispersion curve for:7D.G22B
+  warnings.warn('No predicted dispersion curve for:'+self.stats.network+'.'+self.stats.station, UserWarning, stacklevel=1)
+/projects/howa1663/Code/pyaftan/FTAN_4_JdF.py:320: UserWarning: No predicted dispersion curve for:7D.G05B
+  warnings.warn('No predicted dispersion curve for:'+self.stats.network+'.'+self.stats.station, UserWarning, stacklevel=1)
+/projects/howa1663/Code/pyaftan/FTAN_4_JdF.py:320: UserWarning: No predicted dispersion curve for:7D.G35B
+  warnings.warn('No predicted dispersion curve for:'+self.stats.network+'.'+self.stats.station, UserWarning, stacklevel=1)
+/projects/howa1663/Code/pyaftan/FTAN_4_JdF.py:320: UserWarning: No predicted dispersion curve for:7D.G37B
+  warnings.warn('No predicted dispersion curve for:'+self.stats.network+'.'+self.stats.station, UserWarning, stacklevel=1)
+/projects/howa1663/Code/pyaftan/FTAN_4_JdF.py:320: UserWarning: No predicted dispersion curve for:IU.COR
+  warnings.warn('No predicted dispersion curve for:'+self.stats.network+'.'+self.stats.station, UserWarning, stacklevel=1)
+/projects/howa1663/Code/pyaftan/FTAN_4_JdF.py:320: UserWarning: No predicted dispersion curve for:UW.KENT
+  warnings.warn('No predicted dispersion curve for:'+self.stats.network+'.'+self.stats.station, UserWarning, stacklevel=1)
+/projects/howa1663/Code/pyaftan/FTAN_4_JdF.py:320: UserWarning: No predicted dispersion curve for:US.HAWA
+  warnings.warn('No predicted dispersion curve for:'+self.stats.network+'.'+self.stats.station, UserWarning, stacklevel=1)
+/projects/howa1663/Code/pyaftan/FTAN_4_JdF.py:320: UserWarning: No predicted dispersion curve for:TA.F05D
+  warnings.warn('No predicted dispersion curve for:'+self.stats.network+'.'+self.stats.station, UserWarning, stacklevel=1)
+/projects/howa1663/Code/pyaftan/FTAN_4_JdF.py:320: UserWarning: No predicted dispersion curve for:7D.J11B
+  warnings.warn('No predicted dispersion curve for:'+self.stats.network+'.'+self.stats.station, UserWarning, stacklevel=1)
+/projects/howa1663/Code/pyaftan/FTAN_4_JdF.py:320: UserWarning: No predicted dispersion curve for:7D.G02B
+  warnings.warn('No predicted dispersion curve for:'+self.stats.network+'.'+self.stats.station, UserWarning, stacklevel=1)
+/projects/howa1663/Code/pyaftan/FTAN_4_JdF.py:320: UserWarning: No predicted dispersion curve for:TA.O02D
+  warnings.warn('No predicted dispersion curve for:'+self.stats.network+'.'+self.stats.station, UserWarning, stacklevel=1)
+/projects/howa1663/Code/pyaftan/FTAN_4_JdF.py:320: UserWarning: No predicted dispersion curve for:7D.M09B
+  warnings.warn('No predicted dispersion curve for:'+self.stats.network+'.'+self.stats.station, UserWarning, stacklevel=1)
+/projects/howa1663/Code/pyaftan/FTAN_4_JdF.py:320: UserWarning: No predicted dispersion curve for:7D.J27B
+  warnings.warn('No predicted dispersion curve for:'+self.stats.network+'.'+self.stats.station, UserWarning, stacklevel=1)
+/projects/howa1663/Code/pyaftan/FTAN_4_JdF.py:320: UserWarning: No predicted dispersion curve for:7D.G36B2
+  warnings.warn('No predicted dispersion curve for:'+self.stats.network+'.'+self.stats.station, UserWarning, stacklevel=1)
+/projects/howa1663/Code/pyaftan/FTAN_4_JdF.py:320: UserWarning: No predicted dispersion curve for:UW.IZEE
+  warnings.warn('No predicted dispersion curve for:'+self.stats.network+'.'+self.stats.station, UserWarning, stacklevel=1)
+/projects/howa1663/Code/pyaftan/FTAN_4_JdF.py:320: UserWarning: No predicted dispersion curve for:7D.FS16B
+  warnings.warn('No predicted dispersion curve for:'+self.stats.network+'.'+self.stats.station, UserWarning, stacklevel=1)
+/projects/howa1663/Code/pyaftan/FTAN_4_JdF.py:320: UserWarning: No predicted dispersion curve for:TA.L02D
+  warnings.warn('No predicted dispersion curve for:'+self.stats.network+'.'+self.stats.station, UserWarning, stacklevel=1)
+/projects/howa1663/Code/pyaftan/FTAN_4_JdF.py:320: UserWarning: No predicted dispersion curve for:7D.G20B
+  warnings.warn('No predicted dispersion curve for:'+self.stats.network+'.'+self.stats.station, UserWarning, stacklevel=1)
+/projects/howa1663/Code/pyaftan/FTAN_4_JdF.py:320: UserWarning: No predicted dispersion curve for:TA.G05D
+  warnings.warn('No predicted dispersion curve for:'+self.stats.network+'.'+self.stats.station, UserWarning, stacklevel=1)
+/projects/howa1663/Code/pyaftan/FTAN_4_JdF.py:320: UserWarning: No predicted dispersion curve for:TA.K04D
+  warnings.warn('No predicted dispersion curve for:'+self.stats.network+'.'+self.stats.station, UserWarning, stacklevel=1)
+/projects/howa1663/Code/pyaftan/FTAN_4_JdF.py:320: UserWarning: No predicted dispersion curve for:7D.FS14B
+  warnings.warn('No predicted dispersion curve for:'+self.stats.network+'.'+self.stats.station, UserWarning, stacklevel=1)
+/projects/howa1663/Code/pyaftan/FTAN_4_JdF.py:320: UserWarning: No predicted dispersion curve for:UW.TREE
+  warnings.warn('No predicted dispersion curve for:'+self.stats.network+'.'+self.stats.station, UserWarning, stacklevel=1)
+/projects/howa1663/Code/pyaftan/FTAN_4_JdF.py:320: UserWarning: No predicted dispersion curve for:UW.DDRF
+  warnings.warn('No predicted dispersion curve for:'+self.stats.network+'.'+self.stats.station, UserWarning, stacklevel=1)
+/projects/howa1663/Code/pyaftan/FTAN_4_JdF.py:320: UserWarning: No predicted dispersion curve for:UW.UMAT
+  warnings.warn('No predicted dispersion curve for:'+self.stats.network+'.'+self.stats.station, UserWarning, stacklevel=1)
+/projects/howa1663/Code/pyaftan/FTAN_4_JdF.py:320: UserWarning: No predicted dispersion curve for:US.NLWA
+  warnings.warn('No predicted dispersion curve for:'+self.stats.network+'.'+self.stats.station, UserWarning, stacklevel=1)
+/projects/howa1663/Code/pyaftan/FTAN_4_JdF.py:320: UserWarning: No predicted dispersion curve for:7D.G27B
+  warnings.warn('No predicted dispersion curve for:'+self.stats.network+'.'+self.stats.station, UserWarning, stacklevel=1)
+/projects/howa1663/Code/pyaftan/FTAN_4_JdF.py:320: UserWarning: No predicted dispersion curve for:TA.I03D
+  warnings.warn('No predicted dispersion curve for:'+self.stats.network+'.'+self.stats.station, UserWarning, stacklevel=1)
+/projects/howa1663/Code/pyaftan/FTAN_4_JdF.py:320: UserWarning: No predicted dispersion curve for:7D.G09B
+  warnings.warn('No predicted dispersion curve for:'+self.stats.network+'.'+self.stats.station, UserWarning, stacklevel=1)
+/projects/howa1663/Code/pyaftan/FTAN_4_JdF.py:320: UserWarning: No predicted dispersion curve for:7D.G13B
+  warnings.warn('No predicted dispersion curve for:'+self.stats.network+'.'+self.stats.station, UserWarning, stacklevel=1)
+/projects/howa1663/Code/pyaftan/FTAN_4_JdF.py:320: UserWarning: No predicted dispersion curve for:BK.WDC
+  warnings.warn('No predicted dispersion curve for:'+self.stats.network+'.'+self.stats.station, UserWarning, stacklevel=1)
+/projects/howa1663/Code/pyaftan/FTAN_4_JdF.py:320: UserWarning: No predicted dispersion curve for:UW.YACT
+  warnings.warn('No predicted dispersion curve for:'+self.stats.network+'.'+self.stats.station, UserWarning, stacklevel=1)
+/projects/howa1663/Code/pyaftan/FTAN_4_JdF.py:320: UserWarning: No predicted dispersion curve for:UW.SQM
+  warnings.warn('No predicted dispersion curve for:'+self.stats.network+'.'+self.stats.station, UserWarning, stacklevel=1)
+/projects/howa1663/Code/pyaftan/FTAN_4_JdF.py:320: UserWarning: No predicted dispersion curve for:UW.MEGW
+  warnings.warn('No predicted dispersion curve for:'+self.stats.network+'.'+self.stats.station, UserWarning, stacklevel=1)
+/projects/howa1663/Code/pyaftan/FTAN_4_JdF.py:320: UserWarning: No predicted dispersion curve for:7D.M14D
+  warnings.warn('No predicted dispersion curve for:'+self.stats.network+'.'+self.stats.station, UserWarning, stacklevel=1)
+/projects/howa1663/Code/pyaftan/FTAN_4_JdF.py:320: UserWarning: No predicted dispersion curve for:7D.G35D
+  warnings.warn('No predicted dispersion curve for:'+self.stats.network+'.'+self.stats.station, UserWarning, stacklevel=1)
+/projects/howa1663/Code/pyaftan/FTAN_4_JdF.py:320: UserWarning: No predicted dispersion curve for:7D.J27D
+  warnings.warn('No predicted dispersion curve for:'+self.stats.network+'.'+self.stats.station, UserWarning, stacklevel=1)
+/projects/howa1663/Code/pyaftan/FTAN_4_JdF.py:320: UserWarning: No predicted dispersion curve for:7D.M13D
+  warnings.warn('No predicted dispersion curve for:'+self.stats.network+'.'+self.stats.station, UserWarning, stacklevel=1)
+/projects/howa1663/Code/pyaftan/FTAN_4_JdF.py:320: UserWarning: No predicted dispersion curve for:7D.J11D
+  warnings.warn('No predicted dispersion curve for:'+self.stats.network+'.'+self.stats.station, UserWarning, stacklevel=1)
+/projects/howa1663/Code/pyaftan/FTAN_4_JdF.py:320: UserWarning: No predicted dispersion curve for:7D.J23D
+  warnings.warn('No predicted dispersion curve for:'+self.stats.network+'.'+self.stats.station, UserWarning, stacklevel=1)
+/projects/howa1663/Code/pyaftan/FTAN_4_JdF.py:320: UserWarning: No predicted dispersion curve for:7D.G27D
+  warnings.warn('No predicted dispersion curve for:'+self.stats.network+'.'+self.stats.station, UserWarning, stacklevel=1)
+/projects/howa1663/Code/pyaftan/FTAN_4_JdF.py:320: UserWarning: No predicted dispersion curve for:7D.J19D
+  warnings.warn('No predicted dispersion curve for:'+self.stats.network+'.'+self.stats.station, UserWarning, stacklevel=1)
+/projects/howa1663/Code/pyaftan/FTAN_4_JdF.py:320: UserWarning: No predicted dispersion curve for:7D.M17D
+  warnings.warn('No predicted dispersion curve for:'+self.stats.network+'.'+self.stats.station, UserWarning, stacklevel=1)
+/projects/howa1663/Code/pyaftan/FTAN_4_JdF.py:320: UserWarning: No predicted dispersion curve for:7D.G37D
+  warnings.warn('No predicted dispersion curve for:'+self.stats.network+'.'+self.stats.station, UserWarning, stacklevel=1)
+/projects/howa1663/Code/pyaftan/FTAN_4_JdF.py:320: UserWarning: No predicted dispersion curve for:UW.HEBO
+  warnings.warn('No predicted dispersion curve for:'+self.stats.network+'.'+self.stats.station, UserWarning, stacklevel=1)
+/projects/howa1663/Code/pyaftan/FTAN_4_JdF.py:320: UserWarning: No predicted dispersion curve for:7D.G25D
+  warnings.warn('No predicted dispersion curve for:'+self.stats.network+'.'+self.stats.station, UserWarning, stacklevel=1)
+/projects/howa1663/Code/pyaftan/FTAN_4_JdF.py:320: UserWarning: No predicted dispersion curve for:7D.M16D
+  warnings.warn('No predicted dispersion curve for:'+self.stats.network+'.'+self.stats.station, UserWarning, stacklevel=1)
+/projects/howa1663/Code/pyaftan/FTAN_4_JdF.py:320: UserWarning: No predicted dispersion curve for:7D.G34D
+  warnings.warn('No predicted dispersion curve for:'+self.stats.network+'.'+self.stats.station, UserWarning, stacklevel=1)
+/projects/howa1663/Code/pyaftan/FTAN_4_JdF.py:320: UserWarning: No predicted dispersion curve for:7D.J06D
+  warnings.warn('No predicted dispersion curve for:'+self.stats.network+'.'+self.stats.station, UserWarning, stacklevel=1)
+/projects/howa1663/Code/pyaftan/FTAN_4_JdF.py:320: UserWarning: No predicted dispersion curve for:7D.M15D
+  warnings.warn('No predicted dispersion curve for:'+self.stats.network+'.'+self.stats.station, UserWarning, stacklevel=1)
+/projects/howa1663/Code/pyaftan/FTAN_4_JdF.py:320: UserWarning: No predicted dispersion curve for:7D.G21D
+  warnings.warn('No predicted dispersion curve for:'+self.stats.network+'.'+self.stats.station, UserWarning, stacklevel=1)
+/projects/howa1663/Code/pyaftan/FTAN_4_JdF.py:320: UserWarning: No predicted dispersion curve for:7D.G29D
+  warnings.warn('No predicted dispersion curve for:'+self.stats.network+'.'+self.stats.station, UserWarning, stacklevel=1)
+/projects/howa1663/Code/pyaftan/FTAN_4_JdF.py:320: UserWarning: No predicted dispersion curve for:7D.G33D
+  warnings.warn('No predicted dispersion curve for:'+self.stats.network+'.'+self.stats.station, UserWarning, stacklevel=1)
+/projects/howa1663/Code/pyaftan/FTAN_4_JdF.py:320: UserWarning: No predicted dispersion curve for:7D.G22D
+  warnings.warn('No predicted dispersion curve for:'+self.stats.network+'.'+self.stats.station, UserWarning, stacklevel=1)
+/projects/howa1663/Code/pyaftan/FTAN_4_JdF.py:320: UserWarning: No predicted dispersion curve for:7D.J28D
+  warnings.warn('No predicted dispersion curve for:'+self.stats.network+'.'+self.stats.station, UserWarning, stacklevel=1)
+/projects/howa1663/Code/pyaftan/FTAN_4_JdF.py:320: UserWarning: No predicted dispersion curve for:7D.J25D
+  warnings.warn('No predicted dispersion curve for:'+self.stats.network+'.'+self.stats.station, UserWarning, stacklevel=1)
+/projects/howa1663/Code/pyaftan/FTAN_4_JdF.py:320: UserWarning: No predicted dispersion curve for:UW.FISH
+  warnings.warn('No predicted dispersion curve for:'+self.stats.network+'.'+self.stats.station, UserWarning, stacklevel=1)
+/projects/howa1663/Code/pyaftan/FTAN_4_JdF.py:320: UserWarning: No predicted dispersion curve for:7D.J20D
+  warnings.warn('No predicted dispersion curve for:'+self.stats.network+'.'+self.stats.station, UserWarning, stacklevel=1)
+/projects/howa1663/Code/pyaftan/FTAN_4_JdF.py:320: UserWarning: No predicted dispersion curve for:7D.G20D
+  warnings.warn('No predicted dispersion curve for:'+self.stats.network+'.'+self.stats.station, UserWarning, stacklevel=1)
+/projects/howa1663/Code/pyaftan/FTAN_4_JdF.py:320: UserWarning: No predicted dispersion curve for:7D.G26D
+  warnings.warn('No predicted dispersion curve for:'+self.stats.network+'.'+self.stats.station, UserWarning, stacklevel=1)
+/projects/howa1663/Code/pyaftan/FTAN_4_JdF.py:320: UserWarning: No predicted dispersion curve for:7D.J09D
+  warnings.warn('No predicted dispersion curve for:'+self.stats.network+'.'+self.stats.station, UserWarning, stacklevel=1)
+/projects/howa1663/Code/pyaftan/FTAN_4_JdF.py:320: UserWarning: No predicted dispersion curve for:7D.J17D
+  warnings.warn('No predicted dispersion curve for:'+self.stats.network+'.'+self.stats.station, UserWarning, stacklevel=1)
+/projects/howa1663/Code/pyaftan/FTAN_4_JdF.py:320: UserWarning: No predicted dispersion curve for:7D.J10D
+  warnings.warn('No predicted dispersion curve for:'+self.stats.network+'.'+self.stats.station, UserWarning, stacklevel=1)
+/projects/howa1663/Code/pyaftan/FTAN_4_JdF.py:320: UserWarning: No predicted dispersion curve for:7D.G36D
+  warnings.warn('No predicted dispersion curve for:'+self.stats.network+'.'+self.stats.station, UserWarning, stacklevel=1)
+/projects/howa1663/Code/pyaftan/FTAN_4_JdF.py:320: UserWarning: No predicted dispersion curve for:7D.J26D
+  warnings.warn('No predicted dispersion curve for:'+self.stats.network+'.'+self.stats.station, UserWarning, stacklevel=1)
+/projects/howa1663/Code/pyaftan/FTAN_4_JdF.py:320: UserWarning: No predicted dispersion curve for:7D.J18D
+  warnings.warn('No predicted dispersion curve for:'+self.stats.network+'.'+self.stats.station, UserWarning, stacklevel=1)
+/projects/howa1663/Code/pyaftan/FTAN_4_JdF.py:320: UserWarning: No predicted dispersion curve for:7D.J68C
+  warnings.warn('No predicted dispersion curve for:'+self.stats.network+'.'+self.stats.station, UserWarning, stacklevel=1)
+/projects/howa1663/Code/pyaftan/FTAN_4_JdF.py:320: UserWarning: No predicted dispersion curve for:7D.M08C
+  warnings.warn('No predicted dispersion curve for:'+self.stats.network+'.'+self.stats.station, UserWarning, stacklevel=1)
+/projects/howa1663/Code/pyaftan/FTAN_4_JdF.py:320: UserWarning: No predicted dispersion curve for:7D.M07C
+  warnings.warn('No predicted dispersion curve for:'+self.stats.network+'.'+self.stats.station, UserWarning, stacklevel=1)
+/projects/howa1663/Code/pyaftan/FTAN_4_JdF.py:320: UserWarning: No predicted dispersion curve for:7D.M06C
+  warnings.warn('No predicted dispersion curve for:'+self.stats.network+'.'+self.stats.station, UserWarning, stacklevel=1)
+/projects/howa1663/Code/pyaftan/FTAN_4_JdF.py:320: UserWarning: No predicted dispersion curve for:7D.J69C
+  warnings.warn('No predicted dispersion curve for:'+self.stats.network+'.'+self.stats.station, UserWarning, stacklevel=1)
+/projects/howa1663/Code/pyaftan/FTAN_4_JdF.py:320: UserWarning: No predicted dispersion curve for:7D.J73C
+  warnings.warn('No predicted dispersion curve for:'+self.stats.network+'.'+self.stats.station, UserWarning, stacklevel=1)
+/projects/howa1663/Code/pyaftan/FTAN_4_JdF.py:320: UserWarning: No predicted dispersion curve for:7D.M01C
+  warnings.warn('No predicted dispersion curve for:'+self.stats.network+'.'+self.stats.station, UserWarning, stacklevel=1)
+/projects/howa1663/Code/pyaftan/FTAN_4_JdF.py:320: UserWarning: No predicted dispersion curve for:7D.M03C
+  warnings.warn('No predicted dispersion curve for:'+self.stats.network+'.'+self.stats.station, UserWarning, stacklevel=1)
+/projects/howa1663/Code/pyaftan/FTAN_4_JdF.py:320: UserWarning: No predicted dispersion curve for:7D.M05C
+  warnings.warn('No predicted dispersion curve for:'+self.stats.network+'.'+self.stats.station, UserWarning, stacklevel=1)
+/projects/howa1663/Code/pyaftan/FTAN_4_JdF.py:320: UserWarning: No predicted dispersion curve for:7D.J67C
+  warnings.warn('No predicted dispersion curve for:'+self.stats.network+'.'+self.stats.station, UserWarning, stacklevel=1)
+/projects/howa1663/Code/pyaftan/FTAN_4_JdF.py:320: UserWarning: No predicted dispersion curve for:7D.G17D
+  warnings.warn('No predicted dispersion curve for:'+self.stats.network+'.'+self.stats.station, UserWarning, stacklevel=1)
+/projects/howa1663/Code/pyaftan/FTAN_4_JdF.py:320: UserWarning: No predicted dispersion curve for:7D.G13D
+  warnings.warn('No predicted dispersion curve for:'+self.stats.network+'.'+self.stats.station, UserWarning, stacklevel=1)
+/projects/howa1663/Code/pyaftan/FTAN_4_JdF.py:320: UserWarning: No predicted dispersion curve for:7D.G02D
+  warnings.warn('No predicted dispersion curve for:'+self.stats.network+'.'+self.stats.station, UserWarning, stacklevel=1)
+/projects/howa1663/Code/pyaftan/FTAN_4_JdF.py:320: UserWarning: No predicted dispersion curve for:7D.G11D
+  warnings.warn('No predicted dispersion curve for:'+self.stats.network+'.'+self.stats.station, UserWarning, stacklevel=1)
+/projects/howa1663/Code/pyaftan/FTAN_4_JdF.py:320: UserWarning: No predicted dispersion curve for:7D.G04D
+  warnings.warn('No predicted dispersion curve for:'+self.stats.network+'.'+self.stats.station, UserWarning, stacklevel=1)
+/projects/howa1663/Code/pyaftan/FTAN_4_JdF.py:320: UserWarning: No predicted dispersion curve for:7D.G18D
+  warnings.warn('No predicted dispersion curve for:'+self.stats.network+'.'+self.stats.station, UserWarning, stacklevel=1)
+/projects/howa1663/Code/pyaftan/FTAN_4_JdF.py:320: UserWarning: No predicted dispersion curve for:7D.G09D
+  warnings.warn('No predicted dispersion curve for:'+self.stats.network+'.'+self.stats.station, UserWarning, stacklevel=1)
+/projects/howa1663/Code/pyaftan/FTAN_4_JdF.py:320: UserWarning: No predicted dispersion curve for:7D.G19D
+  warnings.warn('No predicted dispersion curve for:'+self.stats.network+'.'+self.stats.station, UserWarning, stacklevel=1)
+/projects/howa1663/Code/pyaftan/FTAN_4_JdF.py:320: UserWarning: No predicted dispersion curve for:7D.G10D
+  warnings.warn('No predicted dispersion curve for:'+self.stats.network+'.'+self.stats.station, UserWarning, stacklevel=1)
+/projects/howa1663/Code/pyaftan/FTAN_4_JdF.py:320: UserWarning: No predicted dispersion curve for:7D.M03A
+  warnings.warn('No predicted dispersion curve for:'+self.stats.network+'.'+self.stats.station, UserWarning, stacklevel=1)
+/projects/howa1663/Code/pyaftan/FTAN_4_JdF.py:320: UserWarning: No predicted dispersion curve for:7D.M02A
+  warnings.warn('No predicted dispersion curve for:'+self.stats.network+'.'+self.stats.station, UserWarning, stacklevel=1)
+/projects/howa1663/Code/pyaftan/FTAN_4_JdF.py:320: UserWarning: No predicted dispersion curve for:7D.J47A
+  warnings.warn('No predicted dispersion curve for:'+self.stats.network+'.'+self.stats.station, UserWarning, stacklevel=1)
+/projects/howa1663/Code/pyaftan/FTAN_4_JdF.py:320: UserWarning: No predicted dispersion curve for:7D.M01A
+  warnings.warn('No predicted dispersion curve for:'+self.stats.network+'.'+self.stats.station, UserWarning, stacklevel=1)
+/projects/howa1663/Code/pyaftan/FTAN_4_JdF.py:320: UserWarning: No predicted dispersion curve for:7D.J63A
+  warnings.warn('No predicted dispersion curve for:'+self.stats.network+'.'+self.stats.station, UserWarning, stacklevel=1)
+/projects/howa1663/Code/pyaftan/FTAN_4_JdF.py:320: UserWarning: No predicted dispersion curve for:7D.M07A
+  warnings.warn('No predicted dispersion curve for:'+self.stats.network+'.'+self.stats.station, UserWarning, stacklevel=1)
+/projects/howa1663/Code/pyaftan/FTAN_4_JdF.py:320: UserWarning: No predicted dispersion curve for:7D.J59A
+  warnings.warn('No predicted dispersion curve for:'+self.stats.network+'.'+self.stats.station, UserWarning, stacklevel=1)
+/projects/howa1663/Code/pyaftan/FTAN_4_JdF.py:320: UserWarning: No predicted dispersion curve for:7D.J57A
+  warnings.warn('No predicted dispersion curve for:'+self.stats.network+'.'+self.stats.station, UserWarning, stacklevel=1)
+/projects/howa1663/Code/pyaftan/FTAN_4_JdF.py:320: UserWarning: No predicted dispersion curve for:7D.J49A
+  warnings.warn('No predicted dispersion curve for:'+self.stats.network+'.'+self.stats.station, UserWarning, stacklevel=1)
+/projects/howa1663/Code/pyaftan/FTAN_4_JdF.py:320: UserWarning: No predicted dispersion curve for:7D.J65A
+  warnings.warn('No predicted dispersion curve for:'+self.stats.network+'.'+self.stats.station, UserWarning, stacklevel=1)
+/projects/howa1663/Code/pyaftan/FTAN_4_JdF.py:320: UserWarning: No predicted dispersion curve for:7D.J68A
+  warnings.warn('No predicted dispersion curve for:'+self.stats.network+'.'+self.stats.station, UserWarning, stacklevel=1)
+/projects/howa1663/Code/pyaftan/FTAN_4_JdF.py:320: UserWarning: No predicted dispersion curve for:7D.J52A
+  warnings.warn('No predicted dispersion curve for:'+self.stats.network+'.'+self.stats.station, UserWarning, stacklevel=1)
+/projects/howa1663/Code/pyaftan/FTAN_4_JdF.py:320: UserWarning: No predicted dispersion curve for:7D.J73A
+  warnings.warn('No predicted dispersion curve for:'+self.stats.network+'.'+self.stats.station, UserWarning, stacklevel=1)
+/projects/howa1663/Code/pyaftan/FTAN_4_JdF.py:320: UserWarning: No predicted dispersion curve for:7D.J46A
+  warnings.warn('No predicted dispersion curve for:'+self.stats.network+'.'+self.stats.station, UserWarning, stacklevel=1)
+/projects/howa1663/Code/pyaftan/FTAN_4_JdF.py:320: UserWarning: No predicted dispersion curve for:7D.M06A
+  warnings.warn('No predicted dispersion curve for:'+self.stats.network+'.'+self.stats.station, UserWarning, stacklevel=1)
+/projects/howa1663/Code/pyaftan/FTAN_4_JdF.py:320: UserWarning: No predicted dispersion curve for:7D.J58A
+  warnings.warn('No predicted dispersion curve for:'+self.stats.network+'.'+self.stats.station, UserWarning, stacklevel=1)
+/projects/howa1663/Code/pyaftan/FTAN_4_JdF.py:320: UserWarning: No predicted dispersion curve for:7D.J48A
+  warnings.warn('No predicted dispersion curve for:'+self.stats.network+'.'+self.stats.station, UserWarning, stacklevel=1)
+/projects/howa1663/Code/pyaftan/FTAN_4_JdF.py:320: UserWarning: No predicted dispersion curve for:7D.J51A
+  warnings.warn('No predicted dispersion curve for:'+self.stats.network+'.'+self.stats.station, UserWarning, stacklevel=1)
+/projects/howa1663/Code/pyaftan/FTAN_4_JdF.py:320: UserWarning: No predicted dispersion curve for:7D.M08A
+  warnings.warn('No predicted dispersion curve for:'+self.stats.network+'.'+self.stats.station, UserWarning, stacklevel=1)
+/projects/howa1663/Code/pyaftan/FTAN_4_JdF.py:320: UserWarning: No predicted dispersion curve for:7D.J55A
+  warnings.warn('No predicted dispersion curve for:'+self.stats.network+'.'+self.stats.station, UserWarning, stacklevel=1)
+/projects/howa1663/Code/pyaftan/FTAN_4_JdF.py:320: UserWarning: No predicted dispersion curve for:7D.J67A
+  warnings.warn('No predicted dispersion curve for:'+self.stats.network+'.'+self.stats.station, UserWarning, stacklevel=1)
+/projects/howa1663/Code/pyaftan/FTAN_4_JdF.py:320: UserWarning: No predicted dispersion curve for:7D.J53A
+  warnings.warn('No predicted dispersion curve for:'+self.stats.network+'.'+self.stats.station, UserWarning, stacklevel=1)
+/projects/howa1663/Code/pyaftan/FTAN_4_JdF.py:320: UserWarning: No predicted dispersion curve for:7D.J50A
+  warnings.warn('No predicted dispersion curve for:'+self.stats.network+'.'+self.stats.station, UserWarning, stacklevel=1)
+/projects/howa1663/Code/pyaftan/FTAN_4_JdF.py:320: UserWarning: No predicted dispersion curve for:7D.J61A
+  warnings.warn('No predicted dispersion curve for:'+self.stats.network+'.'+self.stats.station, UserWarning, stacklevel=1)
+/projects/howa1663/Code/pyaftan/FTAN_4_JdF.py:320: UserWarning: No predicted dispersion curve for:7D.J54A
+  warnings.warn('No predicted dispersion curve for:'+self.stats.network+'.'+self.stats.station, UserWarning, stacklevel=1)
+/projects/howa1663/Code/pyaftan/FTAN_4_JdF.py:320: UserWarning: No predicted dispersion curve for:7D.J42A
+  warnings.warn('No predicted dispersion curve for:'+self.stats.network+'.'+self.stats.station, UserWarning, stacklevel=1)
+/projects/howa1663/Code/pyaftan/FTAN_4_JdF.py:320: UserWarning: No predicted dispersion curve for:7D.J44A
+  warnings.warn('No predicted dispersion curve for:'+self.stats.network+'.'+self.stats.station, UserWarning, stacklevel=1)
+/projects/howa1663/Code/pyaftan/FTAN_4_JdF.py:320: UserWarning: No predicted dispersion curve for:7D.J35A
+  warnings.warn('No predicted dispersion curve for:'+self.stats.network+'.'+self.stats.station, UserWarning, stacklevel=1)
+/projects/howa1663/Code/pyaftan/FTAN_4_JdF.py:320: UserWarning: No predicted dispersion curve for:7D.J36A
+  warnings.warn('No predicted dispersion curve for:'+self.stats.network+'.'+self.stats.station, UserWarning, stacklevel=1)
+/projects/howa1663/Code/pyaftan/FTAN_4_JdF.py:320: UserWarning: No predicted dispersion curve for:7D.J33A
+  warnings.warn('No predicted dispersion curve for:'+self.stats.network+'.'+self.stats.station, UserWarning, stacklevel=1)
+/projects/howa1663/Code/pyaftan/FTAN_4_JdF.py:320: UserWarning: No predicted dispersion curve for:7D.J34A
+  warnings.warn('No predicted dispersion curve for:'+self.stats.network+'.'+self.stats.station, UserWarning, stacklevel=1)
+/projects/howa1663/Code/pyaftan/FTAN_4_JdF.py:320: UserWarning: No predicted dispersion curve for:7D.J45A
+  warnings.warn('No predicted dispersion curve for:'+self.stats.network+'.'+self.stats.station, UserWarning, stacklevel=1)
+/projects/howa1663/Code/pyaftan/FTAN_4_JdF.py:320: UserWarning: No predicted dispersion curve for:7D.J43A
+  warnings.warn('No predicted dispersion curve for:'+self.stats.network+'.'+self.stats.station, UserWarning, stacklevel=1)
+/projects/howa1663/Code/pyaftan/FTAN_4_JdF.py:320: UserWarning: No predicted dispersion curve for:7D.J38A
+  warnings.warn('No predicted dispersion curve for:'+self.stats.network+'.'+self.stats.station, UserWarning, stacklevel=1)
+/projects/howa1663/Code/pyaftan/FTAN_4_JdF.py:320: UserWarning: No predicted dispersion curve for:7D.J41A
+  warnings.warn('No predicted dispersion curve for:'+self.stats.network+'.'+self.stats.station, UserWarning, stacklevel=1)
+/projects/howa1663/Code/pyaftan/FTAN_4_JdF.py:320: UserWarning: No predicted dispersion curve for:7D.J37A
+  warnings.warn('No predicted dispersion curve for:'+self.stats.network+'.'+self.stats.station, UserWarning, stacklevel=1)
+/projects/howa1663/Code/pyaftan/FTAN_4_JdF.py:320: UserWarning: No predicted dispersion curve for:7D.J39A
+  warnings.warn('No predicted dispersion curve for:'+self.stats.network+'.'+self.stats.station, UserWarning, stacklevel=1)
+/projects/howa1663/Code/pyaftan/FTAN_4_JdF.py:320: UserWarning: No predicted dispersion curve for:7D.J43C
+  warnings.warn('No predicted dispersion curve for:'+self.stats.network+'.'+self.stats.station, UserWarning, stacklevel=1)
+/projects/howa1663/Code/pyaftan/FTAN_4_JdF.py:320: UserWarning: No predicted dispersion curve for:7D.J55C
+  warnings.warn('No predicted dispersion curve for:'+self.stats.network+'.'+self.stats.station, UserWarning, stacklevel=1)
+/projects/howa1663/Code/pyaftan/FTAN_4_JdF.py:320: UserWarning: No predicted dispersion curve for:7D.J35C
+  warnings.warn('No predicted dispersion curve for:'+self.stats.network+'.'+self.stats.station, UserWarning, stacklevel=1)
+/projects/howa1663/Code/pyaftan/FTAN_4_JdF.py:320: UserWarning: No predicted dispersion curve for:7D.J45C
+  warnings.warn('No predicted dispersion curve for:'+self.stats.network+'.'+self.stats.station, UserWarning, stacklevel=1)
+/projects/howa1663/Code/pyaftan/FTAN_4_JdF.py:320: UserWarning: No predicted dispersion curve for:7D.J46C
+  warnings.warn('No predicted dispersion curve for:'+self.stats.network+'.'+self.stats.station, UserWarning, stacklevel=1)
+/projects/howa1663/Code/pyaftan/FTAN_4_JdF.py:320: UserWarning: No predicted dispersion curve for:7D.J36C
+  warnings.warn('No predicted dispersion curve for:'+self.stats.network+'.'+self.stats.station, UserWarning, stacklevel=1)
+/projects/howa1663/Code/pyaftan/FTAN_4_JdF.py:320: UserWarning: No predicted dispersion curve for:7D.J28C
+  warnings.warn('No predicted dispersion curve for:'+self.stats.network+'.'+self.stats.station, UserWarning, stacklevel=1)
+/projects/howa1663/Code/pyaftan/FTAN_4_JdF.py:320: UserWarning: No predicted dispersion curve for:7D.J32C
+  warnings.warn('No predicted dispersion curve for:'+self.stats.network+'.'+self.stats.station, UserWarning, stacklevel=1)
+/projects/howa1663/Code/pyaftan/FTAN_4_JdF.py:320: UserWarning: No predicted dispersion curve for:7D.J29C
+  warnings.warn('No predicted dispersion curve for:'+self.stats.network+'.'+self.stats.station, UserWarning, stacklevel=1)
+/projects/howa1663/Code/pyaftan/FTAN_4_JdF.py:320: UserWarning: No predicted dispersion curve for:7D.J44C
+  warnings.warn('No predicted dispersion curve for:'+self.stats.network+'.'+self.stats.station, UserWarning, stacklevel=1)
+/projects/howa1663/Code/pyaftan/FTAN_4_JdF.py:320: UserWarning: No predicted dispersion curve for:7D.J47C
+  warnings.warn('No predicted dispersion curve for:'+self.stats.network+'.'+self.stats.station, UserWarning, stacklevel=1)
+/projects/howa1663/Code/pyaftan/FTAN_4_JdF.py:320: UserWarning: No predicted dispersion curve for:7D.J38C
+  warnings.warn('No predicted dispersion curve for:'+self.stats.network+'.'+self.stats.station, UserWarning, stacklevel=1)
+/projects/howa1663/Code/pyaftan/FTAN_4_JdF.py:320: UserWarning: No predicted dispersion curve for:7D.J37C
+  warnings.warn('No predicted dispersion curve for:'+self.stats.network+'.'+self.stats.station, UserWarning, stacklevel=1)
+/projects/howa1663/Code/pyaftan/FTAN_4_JdF.py:320: UserWarning: No predicted dispersion curve for:7D.J30C
+  warnings.warn('No predicted dispersion curve for:'+self.stats.network+'.'+self.stats.station, UserWarning, stacklevel=1)
+/projects/howa1663/Code/pyaftan/FTAN_4_JdF.py:320: UserWarning: No predicted dispersion curve for:7D.J48C
+  warnings.warn('No predicted dispersion curve for:'+self.stats.network+'.'+self.stats.station, UserWarning, stacklevel=1)
+/projects/howa1663/Code/pyaftan/FTAN_4_JdF.py:320: UserWarning: No predicted dispersion curve for:7D.J63C
+  warnings.warn('No predicted dispersion curve for:'+self.stats.network+'.'+self.stats.station, UserWarning, stacklevel=1)
+/projects/howa1663/Code/pyaftan/FTAN_4_JdF.py:320: UserWarning: No predicted dispersion curve for:7D.J21C
+  warnings.warn('No predicted dispersion curve for:'+self.stats.network+'.'+self.stats.station, UserWarning, stacklevel=1)
+/projects/howa1663/Code/pyaftan/FTAN_4_JdF.py:320: UserWarning: No predicted dispersion curve for:7D.J54C
+  warnings.warn('No predicted dispersion curve for:'+self.stats.network+'.'+self.stats.station, UserWarning, stacklevel=1)
+/projects/howa1663/Code/pyaftan/FTAN_4_JdF.py:320: UserWarning: No predicted dispersion curve for:7D.J39C
+  warnings.warn('No predicted dispersion curve for:'+self.stats.network+'.'+self.stats.station, UserWarning, stacklevel=1)
+/projects/howa1663/Code/pyaftan/FTAN_4_JdF.py:320: UserWarning: No predicted dispersion curve for:7D.J31C
+  warnings.warn('No predicted dispersion curve for:'+self.stats.network+'.'+self.stats.station, UserWarning, stacklevel=1)
+/projects/howa1663/Code/pyaftan/FTAN_4_JdF.py:320: UserWarning: No predicted dispersion curve for:7D.J23C
+  warnings.warn('No predicted dispersion curve for:'+self.stats.network+'.'+self.stats.station, UserWarning, stacklevel=1)
+/projects/howa1663/Code/pyaftan/FTAN_4_JdF.py:320: UserWarning: No predicted dispersion curve for:7D.J30A
+  warnings.warn('No predicted dispersion curve for:'+self.stats.network+'.'+self.stats.station, UserWarning, stacklevel=1)
+/projects/howa1663/Code/pyaftan/FTAN_4_JdF.py:320: UserWarning: No predicted dispersion curve for:7D.FN14A
+  warnings.warn('No predicted dispersion curve for:'+self.stats.network+'.'+self.stats.station, UserWarning, stacklevel=1)
+/projects/howa1663/Code/pyaftan/FTAN_4_JdF.py:320: UserWarning: No predicted dispersion curve for:7D.FN18A
+  warnings.warn('No predicted dispersion curve for:'+self.stats.network+'.'+self.stats.station, UserWarning, stacklevel=1)
+/projects/howa1663/Code/pyaftan/FTAN_4_JdF.py:320: UserWarning: No predicted dispersion curve for:7D.FN16A
+  warnings.warn('No predicted dispersion curve for:'+self.stats.network+'.'+self.stats.station, UserWarning, stacklevel=1)
+/projects/howa1663/Code/pyaftan/FTAN_4_JdF.py:320: UserWarning: No predicted dispersion curve for:7D.G30A
+  warnings.warn('No predicted dispersion curve for:'+self.stats.network+'.'+self.stats.station, UserWarning, stacklevel=1)
+/projects/howa1663/Code/pyaftan/FTAN_4_JdF.py:320: UserWarning: No predicted dispersion curve for:7D.J28A
+  warnings.warn('No predicted dispersion curve for:'+self.stats.network+'.'+self.stats.station, UserWarning, stacklevel=1)
+/projects/howa1663/Code/pyaftan/FTAN_4_JdF.py:320: UserWarning: No predicted dispersion curve for:7D.J23A
+  warnings.warn('No predicted dispersion curve for:'+self.stats.network+'.'+self.stats.station, UserWarning, stacklevel=1)
+/projects/howa1663/Code/pyaftan/FTAN_4_JdF.py:320: UserWarning: No predicted dispersion curve for:7D.J31A
+  warnings.warn('No predicted dispersion curve for:'+self.stats.network+'.'+self.stats.station, UserWarning, stacklevel=1)
+/projects/howa1663/Code/pyaftan/FTAN_4_JdF.py:320: UserWarning: No predicted dispersion curve for:7D.J26A
+  warnings.warn('No predicted dispersion curve for:'+self.stats.network+'.'+self.stats.station, UserWarning, stacklevel=1)
+/projects/howa1663/Code/pyaftan/FTAN_4_JdF.py:320: UserWarning: No predicted dispersion curve for:7D.J29A
+  warnings.warn('No predicted dispersion curve for:'+self.stats.network+'.'+self.stats.station, UserWarning, stacklevel=1)
+/projects/howa1663/Code/pyaftan/FTAN_4_JdF.py:320: UserWarning: No predicted dispersion curve for:7D.J25A
+  warnings.warn('No predicted dispersion curve for:'+self.stats.network+'.'+self.stats.station, UserWarning, stacklevel=1)
+/projects/howa1663/Code/pyaftan/FTAN_4_JdF.py:320: UserWarning: No predicted dispersion curve for:7D.G03A
+  warnings.warn('No predicted dispersion curve for:'+self.stats.network+'.'+self.stats.station, UserWarning, stacklevel=1)
+/projects/howa1663/Code/pyaftan/FTAN_4_JdF.py:320: UserWarning: No predicted dispersion curve for:7D.J06A
+  warnings.warn('No predicted dispersion curve for:'+self.stats.network+'.'+self.stats.station, UserWarning, stacklevel=1)
+/projects/howa1663/Code/pyaftan/FTAN_4_JdF.py:320: UserWarning: No predicted dispersion curve for:7D.FS13B
+  warnings.warn('No predicted dispersion curve for:'+self.stats.network+'.'+self.stats.station, UserWarning, stacklevel=1)
+/projects/howa1663/Code/pyaftan/FTAN_4_JdF.py:320: UserWarning: No predicted dispersion curve for:7D.FS12B
+  warnings.warn('No predicted dispersion curve for:'+self.stats.network+'.'+self.stats.station, UserWarning, stacklevel=1)
+/projects/howa1663/Code/pyaftan/FTAN_4_JdF.py:320: UserWarning: No predicted dispersion curve for:7D.FS11B
+  warnings.warn('No predicted dispersion curve for:'+self.stats.network+'.'+self.stats.station, UserWarning, stacklevel=1)
+/projects/howa1663/Code/pyaftan/FTAN_4_JdF.py:320: UserWarning: No predicted dispersion curve for:7D.J52C
+  warnings.warn('No predicted dispersion curve for:'+self.stats.network+'.'+self.stats.station, UserWarning, stacklevel=1)
+/projects/howa1663/Code/pyaftan/FTAN_4_JdF.py:320: UserWarning: No predicted dispersion curve for:7D.J33C
+  warnings.warn('No predicted dispersion curve for:'+self.stats.network+'.'+self.stats.station, UserWarning, stacklevel=1)
+/projects/howa1663/Code/pyaftan/FTAN_4_JdF.py:320: UserWarning: No predicted dispersion curve for:7D.J25C
+  warnings.warn('No predicted dispersion curve for:'+self.stats.network+'.'+self.stats.station, UserWarning, stacklevel=1)
+/projects/howa1663/Code/pyaftan/FTAN_4_JdF.py:320: UserWarning: No predicted dispersion curve for:7D.J65C
+  warnings.warn('No predicted dispersion curve for:'+self.stats.network+'.'+self.stats.station, UserWarning, stacklevel=1)
+/projects/howa1663/Code/pyaftan/FTAN_4_JdF.py:320: UserWarning: No predicted dispersion curve for:7D.J42C
+  warnings.warn('No predicted dispersion curve for:'+self.stats.network+'.'+self.stats.station, UserWarning, stacklevel=1)
+/projects/howa1663/Code/pyaftan/FTAN_4_JdF.py:320: UserWarning: No predicted dispersion curve for:7D.J26C
+  warnings.warn('No predicted dispersion curve for:'+self.stats.network+'.'+self.stats.station, UserWarning, stacklevel=1)
+/projects/howa1663/Code/pyaftan/FTAN_4_JdF.py:320: UserWarning: No predicted dispersion curve for:7D.J50C
+  warnings.warn('No predicted dispersion curve for:'+self.stats.network+'.'+self.stats.station, UserWarning, stacklevel=1)
+/projects/howa1663/Code/pyaftan/FTAN_4_JdF.py:320: UserWarning: No predicted dispersion curve for:7D.J59C
+  warnings.warn('No predicted dispersion curve for:'+self.stats.network+'.'+self.stats.station, UserWarning, stacklevel=1)
+/projects/howa1663/Code/pyaftan/FTAN_4_JdF.py:320: UserWarning: No predicted dispersion curve for:7D.J49C
+  warnings.warn('No predicted dispersion curve for:'+self.stats.network+'.'+self.stats.station, UserWarning, stacklevel=1)
+/projects/howa1663/Code/pyaftan/FTAN_4_JdF.py:320: UserWarning: No predicted dispersion curve for:7D.J53C
+  warnings.warn('No predicted dispersion curve for:'+self.stats.network+'.'+self.stats.station, UserWarning, stacklevel=1)
+/projects/howa1663/Code/pyaftan/FTAN_4_JdF.py:320: UserWarning: No predicted dispersion curve for:7D.J51C
+  warnings.warn('No predicted dispersion curve for:'+self.stats.network+'.'+self.stats.station, UserWarning, stacklevel=1)
+/projects/howa1663/Code/pyaftan/FTAN_4_JdF.py:320: UserWarning: No predicted dispersion curve for:7D.J61C
+  warnings.warn('No predicted dispersion curve for:'+self.stats.network+'.'+self.stats.station, UserWarning, stacklevel=1)
+/projects/howa1663/Code/pyaftan/FTAN_4_JdF.py:320: UserWarning: No predicted dispersion curve for:7D.J57C
+  warnings.warn('No predicted dispersion curve for:'+self.stats.network+'.'+self.stats.station, UserWarning, stacklevel=1)
+/projects/howa1663/Code/pyaftan/FTAN_4_JdF.py:320: UserWarning: No predicted dispersion curve for:7D.J41C
+  warnings.warn('No predicted dispersion curve for:'+self.stats.network+'.'+self.stats.station, UserWarning, stacklevel=1)
+/projects/howa1663/Code/pyaftan/FTAN_4_JdF.py:320: UserWarning: No predicted dispersion curve for:7D.J34C
+  warnings.warn('No predicted dispersion curve for:'+self.stats.network+'.'+self.stats.station, UserWarning, stacklevel=1)
+/projects/howa1663/Code/pyaftan/FTAN_4_JdF.py:320: UserWarning: No predicted dispersion curve for:7D.J58C
+  warnings.warn('No predicted dispersion curve for:'+self.stats.network+'.'+self.stats.station, UserWarning, stacklevel=1)
+/projects/howa1663/Code/pyaftan/FTAN_4_JdF.py:320: UserWarning: No predicted dispersion curve for:7D.FN19C
+  warnings.warn('No predicted dispersion curve for:'+self.stats.network+'.'+self.stats.station, UserWarning, stacklevel=1)
+/projects/howa1663/Code/pyaftan/FTAN_4_JdF.py:320: UserWarning: No predicted dispersion curve for:7D.FS45D
+  warnings.warn('No predicted dispersion curve for:'+self.stats.network+'.'+self.stats.station, UserWarning, stacklevel=1)
+/projects/howa1663/Code/pyaftan/FTAN_4_JdF.py:320: UserWarning: No predicted dispersion curve for:7D.G01D
+  warnings.warn('No predicted dispersion curve for:'+self.stats.network+'.'+self.stats.station, UserWarning, stacklevel=1)
+/projects/howa1663/Code/pyaftan/FTAN_4_JdF.py:320: UserWarning: No predicted dispersion curve for:7D.FS10B
+  warnings.warn('No predicted dispersion curve for:'+self.stats.network+'.'+self.stats.station, UserWarning, stacklevel=1)
+/projects/howa1663/Code/pyaftan/FTAN_4_JdF.py:320: UserWarning: No predicted dispersion curve for:7D.FN17C
+  warnings.warn('No predicted dispersion curve for:'+self.stats.network+'.'+self.stats.station, UserWarning, stacklevel=1)
+/projects/howa1663/Code/pyaftan/FTAN_4_JdF.py:320: UserWarning: No predicted dispersion curve for:7D.FN16C
+  warnings.warn('No predicted dispersion curve for:'+self.stats.network+'.'+self.stats.station, UserWarning, stacklevel=1)
+/projects/howa1663/Code/pyaftan/FTAN_4_JdF.py:320: UserWarning: No predicted dispersion curve for:7D.FN18C
+  warnings.warn('No predicted dispersion curve for:'+self.stats.network+'.'+self.stats.station, UserWarning, stacklevel=1)
+/projects/howa1663/Code/pyaftan/FTAN_4_JdF.py:320: UserWarning: No predicted dispersion curve for:7D.FN14C
+  warnings.warn('No predicted dispersion curve for:'+self.stats.network+'.'+self.stats.station, UserWarning, stacklevel=1)
+/projects/howa1663/Code/pyaftan/FTAN_4_JdF.py:320: UserWarning: No predicted dispersion curve for:7D.FS11D
+  warnings.warn('No predicted dispersion curve for:'+self.stats.network+'.'+self.stats.station, UserWarning, stacklevel=1)
+/projects/howa1663/Code/pyaftan/FTAN_4_JdF.py:320: UserWarning: No predicted dispersion curve for:7D.FS13D
+  warnings.warn('No predicted dispersion curve for:'+self.stats.network+'.'+self.stats.station, UserWarning, stacklevel=1)
+/projects/howa1663/Code/pyaftan/FTAN_4_JdF.py:320: UserWarning: No predicted dispersion curve for:7D.FS12D
+  warnings.warn('No predicted dispersion curve for:'+self.stats.network+'.'+self.stats.station, UserWarning, stacklevel=1)
+/projects/howa1663/Code/pyaftan/FTAN_4_JdF.py:320: UserWarning: No predicted dispersion curve for:7D.FS10D
+  warnings.warn('No predicted dispersion curve for:'+self.stats.network+'.'+self.stats.station, UserWarning, stacklevel=1)
+/projects/howa1663/Code/pyaftan/FTAN_4_JdF.py:320: UserWarning: No predicted dispersion curve for:7D.FS43D
+  warnings.warn('No predicted dispersion curve for:'+self.stats.network+'.'+self.stats.station, UserWarning, stacklevel=1)
+/projects/howa1663/Code/pyaftan/FTAN_4_JdF.py:320: UserWarning: No predicted dispersion curve for:7D.FS15D
+  warnings.warn('No predicted dispersion curve for:'+self.stats.network+'.'+self.stats.station, UserWarning, stacklevel=1)
+/projects/howa1663/Code/pyaftan/FTAN_4_JdF.py:320: UserWarning: No predicted dispersion curve for:7D.FS16D
+  warnings.warn('No predicted dispersion curve for:'+self.stats.network+'.'+self.stats.station, UserWarning, stacklevel=1)
+/projects/howa1663/Code/pyaftan/FTAN_4_JdF.py:320: UserWarning: No predicted dispersion curve for:7D.FS42D
+  warnings.warn('No predicted dispersion curve for:'+self.stats.network+'.'+self.stats.station, UserWarning, stacklevel=1)
+/projects/howa1663/Code/pyaftan/FTAN_4_JdF.py:320: UserWarning: No predicted dispersion curve for:7D.FS44D
+  warnings.warn('No predicted dispersion curve for:'+self.stats.network+'.'+self.stats.station, UserWarning, stacklevel=1)
+/projects/howa1663/Code/pyaftan/FTAN_4_JdF.py:320: UserWarning: No predicted dispersion curve for:7D.FS41D
+  warnings.warn('No predicted dispersion curve for:'+self.stats.network+'.'+self.stats.station, UserWarning, stacklevel=1)
+/projects/howa1663/Code/pyaftan/FTAN_4_JdF.py:320: UserWarning: No predicted dispersion curve for:7D.FS14D
+  warnings.warn('No predicted dispersion curve for:'+self.stats.network+'.'+self.stats.station, UserWarning, stacklevel=1)
+/projects/howa1663/Code/pyaftan/FTAN_4_JdF.py:320: UserWarning: No predicted dispersion curve for:7D.FS09D
+  warnings.warn('No predicted dispersion curve for:'+self.stats.network+'.'+self.stats.station, UserWarning, stacklevel=1)
+/projects/howa1663/Code/pyaftan/FTAN_4_JdF.py:320: UserWarning: No predicted dispersion curve for:7D.FS17D
+  warnings.warn('No predicted dispersion curve for:'+self.stats.network+'.'+self.stats.station, UserWarning, stacklevel=1)
+/projects/howa1663/Code/pyaftan/FTAN_4_JdF.py:320: UserWarning: No predicted dispersion curve for:7D.FN12A
+  warnings.warn('No predicted dispersion curve for:'+self.stats.network+'.'+self.stats.station, UserWarning, stacklevel=1)
+/projects/howa1663/Code/pyaftan/FTAN_4_JdF.py:320: UserWarning: No predicted dispersion curve for:7D.FN07A
+  warnings.warn('No predicted dispersion curve for:'+self.stats.network+'.'+self.stats.station, UserWarning, stacklevel=1)
+/projects/howa1663/Code/pyaftan/FTAN_4_JdF.py:320: UserWarning: No predicted dispersion curve for:7D.FN08A
+  warnings.warn('No predicted dispersion curve for:'+self.stats.network+'.'+self.stats.station, UserWarning, stacklevel=1)
+/projects/howa1663/Code/pyaftan/FTAN_4_JdF.py:320: UserWarning: No predicted dispersion curve for:7D.FN07C
+  warnings.warn('No predicted dispersion curve for:'+self.stats.network+'.'+self.stats.station, UserWarning, stacklevel=1)
+/projects/howa1663/Code/pyaftan/FTAN_4_JdF.py:320: UserWarning: No predicted dispersion curve for:7D.FN08C
+  warnings.warn('No predicted dispersion curve for:'+self.stats.network+'.'+self.stats.station, UserWarning, stacklevel=1)
+/projects/howa1663/Code/pyaftan/FTAN_4_JdF.py:320: UserWarning: No predicted dispersion curve for:7D.FN11C
+  warnings.warn('No predicted dispersion curve for:'+self.stats.network+'.'+self.stats.station, UserWarning, stacklevel=1)
+/projects/howa1663/Code/pyaftan/FTAN_4_JdF.py:320: UserWarning: No predicted dispersion curve for:7D.FN09C
+  warnings.warn('No predicted dispersion curve for:'+self.stats.network+'.'+self.stats.station, UserWarning, stacklevel=1)
+/projects/howa1663/Code/pyaftan/FTAN_4_JdF.py:320: UserWarning: No predicted dispersion curve for:7D.FN12C
+  warnings.warn('No predicted dispersion curve for:'+self.stats.network+'.'+self.stats.station, UserWarning, stacklevel=1)
+/projects/howa1663/Code/pyaftan/FTAN_4_JdF.py:320: UserWarning: No predicted dispersion curve for:7D.FN13C
+  warnings.warn('No predicted dispersion curve for:'+self.stats.network+'.'+self.stats.station, UserWarning, stacklevel=1)
+/projects/howa1663/Code/pyaftan/FTAN_4_JdF.py:320: UserWarning: No predicted dispersion curve for:7D.FN10C
+  warnings.warn('No predicted dispersion curve for:'+self.stats.network+'.'+self.stats.station, UserWarning, stacklevel=1)
+/projects/howa1663/Code/pyaftan/FTAN_4_JdF.py:320: UserWarning: No predicted dispersion curve for:7D.FS06D
+  warnings.warn('No predicted dispersion curve for:'+self.stats.network+'.'+self.stats.station, UserWarning, stacklevel=1)
+/projects/howa1663/Code/pyaftan/FTAN_4_JdF.py:320: UserWarning: No predicted dispersion curve for:7D.FS08D
+  warnings.warn('No predicted dispersion curve for:'+self.stats.network+'.'+self.stats.station, UserWarning, stacklevel=1)
+/projects/howa1663/Code/pyaftan/FTAN_4_JdF.py:320: UserWarning: No predicted dispersion curve for:7D.FS07D
+  warnings.warn('No predicted dispersion curve for:'+self.stats.network+'.'+self.stats.station, UserWarning, stacklevel=1)
+/projects/howa1663/Code/pyaftan/FTAN_4_JdF.py:320: UserWarning: No predicted dispersion curve for:7D.FS06B
+  warnings.warn('No predicted dispersion curve for:'+self.stats.network+'.'+self.stats.station, UserWarning, stacklevel=1)
+/projects/howa1663/Code/pyaftan/FTAN_4_JdF.py:320: UserWarning: No predicted dispersion curve for:7D.FS08B
+  warnings.warn('No predicted dispersion curve for:'+self.stats.network+'.'+self.stats.station, UserWarning, stacklevel=1)
+/projects/howa1663/Code/pyaftan/FTAN_4_JdF.py:320: UserWarning: No predicted dispersion curve for:7D.FS09B
+  warnings.warn('No predicted dispersion curve for:'+self.stats.network+'.'+self.stats.station, UserWarning, stacklevel=1)
+/projects/howa1663/Code/pyaftan/FTAN_4_JdF.py:320: UserWarning: No predicted dispersion curve for:7D.FS07B
+  warnings.warn('No predicted dispersion curve for:'+self.stats.network+'.'+self.stats.station, UserWarning, stacklevel=1)
+/projects/howa1663/Code/pyaftan/FTAN_4_JdF.py:320: UserWarning: No predicted dispersion curve for:7D.FN06C
+  warnings.warn('No predicted dispersion curve for:'+self.stats.network+'.'+self.stats.station, UserWarning, stacklevel=1)
+/projects/howa1663/Code/pyaftan/FTAN_4_JdF.py:320: UserWarning: No predicted dispersion curve for:7D.FN03C
+  warnings.warn('No predicted dispersion curve for:'+self.stats.network+'.'+self.stats.station, UserWarning, stacklevel=1)
+/projects/howa1663/Code/pyaftan/FTAN_4_JdF.py:320: UserWarning: No predicted dispersion curve for:7D.FN05C
+  warnings.warn('No predicted dispersion curve for:'+self.stats.network+'.'+self.stats.station, UserWarning, stacklevel=1)
+/projects/howa1663/Code/pyaftan/FTAN_4_JdF.py:320: UserWarning: No predicted dispersion curve for:7D.FN04C
+  warnings.warn('No predicted dispersion curve for:'+self.stats.network+'.'+self.stats.station, UserWarning, stacklevel=1)
+/projects/howa1663/Code/pyaftan/FTAN_4_JdF.py:320: UserWarning: No predicted dispersion curve for:7D.FS04B
+  warnings.warn('No predicted dispersion curve for:'+self.stats.network+'.'+self.stats.station, UserWarning, stacklevel=1)
+/projects/howa1663/Code/pyaftan/FTAN_4_JdF.py:320: UserWarning: No predicted dispersion curve for:7D.FS05B
+  warnings.warn('No predicted dispersion curve for:'+self.stats.network+'.'+self.stats.station, UserWarning, stacklevel=1)
+/projects/howa1663/Code/pyaftan/FTAN_4_JdF.py:320: UserWarning: No predicted dispersion curve for:7D.FS03B
+  warnings.warn('No predicted dispersion curve for:'+self.stats.network+'.'+self.stats.station, UserWarning, stacklevel=1)
+/projects/howa1663/Code/pyaftan/FTAN_4_JdF.py:320: UserWarning: No predicted dispersion curve for:7D.FS02B
+  warnings.warn('No predicted dispersion curve for:'+self.stats.network+'.'+self.stats.station, UserWarning, stacklevel=1)
+/projects/howa1663/Code/pyaftan/FTAN_4_JdF.py:320: UserWarning: No predicted dispersion curve for:7D.FN02C
+  warnings.warn('No predicted dispersion curve for:'+self.stats.network+'.'+self.stats.station, UserWarning, stacklevel=1)
+/projects/howa1663/Code/pyaftan/FTAN_4_JdF.py:320: UserWarning: No predicted dispersion curve for:7D.FS04D
+  warnings.warn('No predicted dispersion curve for:'+self.stats.network+'.'+self.stats.station, UserWarning, stacklevel=1)
+/projects/howa1663/Code/pyaftan/FTAN_4_JdF.py:320: UserWarning: No predicted dispersion curve for:7D.FS02D
+  warnings.warn('No predicted dispersion curve for:'+self.stats.network+'.'+self.stats.station, UserWarning, stacklevel=1)
+/projects/howa1663/Code/pyaftan/FTAN_4_JdF.py:320: UserWarning: No predicted dispersion curve for:7D.FN05A
+  warnings.warn('No predicted dispersion curve for:'+self.stats.network+'.'+self.stats.station, UserWarning, stacklevel=1)
+ : cannot connect to X server localhost:32.0
